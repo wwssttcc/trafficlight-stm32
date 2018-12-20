@@ -3,3 +3,6 @@ traffic_light_learning_v1.0.0
 
 traffic_light_learning_v1.0.1
 接入实际的红绿灯对红绿灯进行测试。
+
+traffic_light_learning_v1.0.2-20181220
+wifi和有线网络在真实场景中已经调试成功。
