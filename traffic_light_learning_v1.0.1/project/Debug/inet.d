@@ -1,9 +1,0 @@
-.\debug\inet.o: ..\Utilities\Third_Party\lwip_v1.3.2\src\core\ipv4\inet.c
-.\debug\inet.o: ..\Utilities\Third_Party\lwip_v1.3.2\src\include\lwip/opt.h
-.\debug\inet.o: ..\BSP\lwipopts.h
-.\debug\inet.o: ..\Utilities\Third_Party\lwip_v1.3.2\src\include\lwip/debug.h
-.\debug\inet.o: ..\Utilities\Third_Party\lwip_v1.3.2\src\include\lwip/arch.h
-.\debug\inet.o: ..\Utilities\Third_Party\lwip_v1.3.2\port\STM32F4x7\arch/cc.h
-.\debug\inet.o: ..\Utilities\Third_Party\lwip_v1.3.2\port\STM32F4x7\arch/cpu.h
-.\debug\inet.o: E:\tools\keil\ARM\ARMCC\Bin\..\include\stdio.h
-.\debug\inet.o: ..\Utilities\Third_Party\lwip_v1.3.2\src\include\ipv4\lwip/inet.h
